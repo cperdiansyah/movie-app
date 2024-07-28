@@ -40,7 +40,7 @@
   },
   "overrides": [
     {
-      "include": ["*.json"],
+      "include": ["*.json", "*.webmanifest"],
       "formatter": {
         "indentWidth": 2
       }
