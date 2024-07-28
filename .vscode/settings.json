@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "quickfix.biome": "explicit"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  },
+  "files.autoSave": "afterDelay",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace, 'Fira Code'",
+  "editor.formatOnSave": true,
+  "files.autoSaveDelay": 5000,
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifier": "non-relative"
+}
